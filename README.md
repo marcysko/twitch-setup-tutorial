@@ -2,7 +2,7 @@
 
 ## Table of Contents
  
-  * [License](#License)
+  * [Twitch Studio](#Twitch Studio)
   
   * [Technology](#Technology)
   
