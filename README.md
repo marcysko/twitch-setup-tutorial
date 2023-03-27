@@ -4,7 +4,7 @@
  
   * [Introduction](#Introduction)
   
-  * [Download Twitch Studio](download-twitch-studio)
+  * [Download Twitch Studio](#download-twitch-studio)
   
   * [Tests](#Tests)
 
