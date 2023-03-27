@@ -12,6 +12,8 @@
 
 
 ### Introduction
+Twitch is a live broadcasting platform used primarily for video game streaming. Users can watch live or pre-recorded streams and chat with gamers in real-time. 
+
 This tutorial explains how to set up Twitch Studio. 
 
 To start things off, go to https://www.twitch.tv/ and set up a Twitch account. 
