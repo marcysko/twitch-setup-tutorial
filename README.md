@@ -10,6 +10,8 @@
 
   * [Questions](#Questions)
 
+
+### Introduction
 This tutorial explains how to set up Twitch Studio. The trick is 
 
 To start things off,
