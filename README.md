@@ -16,4 +16,5 @@ Twitch is a live broadcasting platform used primarily for video game streaming. 
 
 This tutorial explains how to set up Twitch Studio. 
 
-To start things off, go to https://www.twitch.tv/ and set up a Twitch account. 
+To begin, go to https://www.twitch.tv/ and set up a Twitch account by clicking on the Sign Up button in the top right corner of the screen. 
+[![Image-3-27-23-at-1-23-PM.jpg](https://i.postimg.cc/RC3Xf6WQ/Image-3-27-23-at-1-23-PM.jpg)](https://postimg.cc/fkNcQbjJ)
