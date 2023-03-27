@@ -1,1 +1,1 @@
-# twitch-setup-tutorial
+# Set Up Your Twitch Studio Tutorial
