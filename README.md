@@ -12,6 +12,6 @@
 
 
 ### Introduction
-This tutorial explains how to set up Twitch Studio. The trick is 
+This tutorial explains how to set up Twitch Studio. 
 
-To start things off,
+To start things off, go to https://www.twitch.tv/ and set up a Twitch account. 
