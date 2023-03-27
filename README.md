@@ -19,3 +19,7 @@ This tutorial explains how to set up Twitch Studio.
 To begin, go to https://www.twitch.tv/ and set up a Twitch account by clicking on the Sign Up button in the top right corner of the screen. 
 
 [![Image-3-27-23-at-2-18-PM.jpg](https://i.postimg.cc/1tNSLRzx/Image-3-27-23-at-2-18-PM.jpg)](https://postimg.cc/wyHnNpJF)
+
+After clicking on Sign Up, a pop up box will appear prompting you to create a username and password. Click on Next Step and enter a phone number or email address for verification purposes. Click Next Step and you will be asked to enter your Date of Birth and then click Sign Up. 
+
+
