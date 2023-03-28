@@ -14,6 +14,8 @@
 
   * [Scene Set Up](#scene-set-up)
 
+  * [Go Live](#go-live)
+
 
 ### Introduction
 Twitch is a live broadcasting platform used primarily for video game streaming. Users can watch live or pre-recorded streams and chat with gamers in real-time. 
