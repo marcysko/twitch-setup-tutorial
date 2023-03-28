@@ -10,6 +10,8 @@
 
   * [Connect Streaming Equipment](#connect-streaming-equipment)
 
+  * [Customize Settings](#customize-settings)
+
 
 ### Introduction
 Twitch is a live broadcasting platform used primarily for video game streaming. Users can watch live or pre-recorded streams and chat with gamers in real-time. 
