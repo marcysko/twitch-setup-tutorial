@@ -6,7 +6,7 @@
   
   * [Download Twitch Studio](#download-twitch-studio)
   
-  * [Tests](#Tests)
+  * [Installation](#installation)
 
   * [Questions](#Questions)
 
@@ -26,3 +26,7 @@ After clicking on Sign Up, a pop up box will appear prompting you to create a us
 Open the Twitch Studio download webpage at https://www.twitch.tv/broadcast/studio. Click the Download Twitch Studio button to start the download. Your current OS should be named under the download button. When downloading is complete, open the Twitch Studio installer and follow the on-screen instructions to install Twitch Studio on your computer. 
 
 [![Image-3-27-23-at-2-48-PM.jpg](https://i.postimg.cc/vT0pTDXS/Image-3-27-23-at-2-48-PM.jpg)](https://postimg.cc/Cnfv6h3j)
+
+### Installation
+
+When downloading is complete, open the Twitch Studio installer and follow the on-screen instructions to install Twitch Studio on your computer. 
