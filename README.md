@@ -8,7 +8,7 @@
   
   * [Installation](#installation)
 
-  * [Questions](#Questions)
+  * [Connect Streaming Equipment](#connect-streaming-equipment)
 
 
 ### Introduction
