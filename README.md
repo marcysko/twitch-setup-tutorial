@@ -28,6 +28,8 @@ To begin, go to https://www.twitch.tv/ and set up a Twitch account by clicking o
 
 After clicking on Sign Up, a pop up box will appear prompting you to create a username and password. Click on Next Step and enter a phone number or email address for verification purposes. Click Next Step and you will be asked to enter your Date of Birth and then click Sign Up. 
 
+[![Image-3-28-23-at-1-12-PM.jpg](https://i.postimg.cc/J0XyyBV4/Image-3-28-23-at-1-12-PM.jpg)](https://postimg.cc/gLYcQj2f)
+
 ### Download Twitch Studio
 Open the Twitch Studio download webpage at https://www.twitch.tv/broadcast/studio. Click the Download Twitch Studio button to start the download. Your current OS should be named under the download button. 
 
